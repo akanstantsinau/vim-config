@@ -8,3 +8,12 @@ set nu
 set tabstop=2
 set shiftwidth=2
 set expandtab
+
+#'autoindent' does nothing more than copy the indentation from the previous line, when starting a new line.
+set autoindent
+
+#Scrolling in Mac's iTerm
+set mouse=a
+
+set encoding=utf-8
+
